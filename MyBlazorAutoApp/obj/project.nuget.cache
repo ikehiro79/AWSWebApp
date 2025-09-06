@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AuY8Vfxi+PI=",
+  "dgSpecHash": "p2JmFYhVzQU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ikeda\\Desktop\\awsapp\\MyBlazorAutoApp\\MyBlazorAutoApp\\MyBlazorAutoApp.csproj",
+  "projectFilePath": "C:\\Users\\ikeda\\gitaws\\AWSWebApp\\MyBlazorAutoApp\\MyBlazorAutoApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ikeda\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.8\\microsoft.aspnetcore.authorization.9.0.8.nupkg.sha512",
     "C:\\Users\\ikeda\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.8\\microsoft.aspnetcore.components.9.0.8.nupkg.sha512",

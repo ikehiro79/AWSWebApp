@@ -1112,11 +1112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ikeda\\Desktop\\awsapp\\MyBlazorAutoApp\\MyBlazorAutoApp\\MyBlazorAutoApp.csproj",
+      "projectUniqueName": "C:\\Users\\ikeda\\gitaws\\AWSWebApp\\MyBlazorAutoApp\\MyBlazorAutoApp.csproj",
       "projectName": "MyBlazorAutoApp",
-      "projectPath": "C:\\Users\\ikeda\\Desktop\\awsapp\\MyBlazorAutoApp\\MyBlazorAutoApp\\MyBlazorAutoApp.csproj",
+      "projectPath": "C:\\Users\\ikeda\\gitaws\\AWSWebApp\\MyBlazorAutoApp\\MyBlazorAutoApp.csproj",
       "packagesPath": "C:\\Users\\ikeda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ikeda\\Desktop\\awsapp\\MyBlazorAutoApp\\MyBlazorAutoApp\\obj\\",
+      "outputPath": "C:\\Users\\ikeda\\gitaws\\AWSWebApp\\MyBlazorAutoApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ikeda\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1131,8 +1131,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\ikeda\\Desktop\\awsapp\\MyBlazorAutoApp\\MyBlazorAutoApp.Client\\MyBlazorAutoApp.Client.csproj": {
-              "projectPath": "C:\\Users\\ikeda\\Desktop\\awsapp\\MyBlazorAutoApp\\MyBlazorAutoApp.Client\\MyBlazorAutoApp.Client.csproj"
+            "C:\\Users\\ikeda\\gitaws\\AWSWebApp\\MyBlazorAutoApp.Client\\MyBlazorAutoApp.Client.csproj": {
+              "projectPath": "C:\\Users\\ikeda\\gitaws\\AWSWebApp\\MyBlazorAutoApp.Client\\MyBlazorAutoApp.Client.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ikeda\\Desktop\\awsapp\\MyBlazorAutoApp\\MyBlazorAutoApp.Client\\MyBlazorAutoApp.Client.csproj": {}
+    "C:\\Users\\ikeda\\gitaws\\AWSWebApp\\MyBlazorAutoApp.Client\\MyBlazorAutoApp.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ikeda\\Desktop\\awsapp\\MyBlazorAutoApp\\MyBlazorAutoApp.Client\\MyBlazorAutoApp.Client.csproj": {
+    "C:\\Users\\ikeda\\gitaws\\AWSWebApp\\MyBlazorAutoApp.Client\\MyBlazorAutoApp.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ikeda\\Desktop\\awsapp\\MyBlazorAutoApp\\MyBlazorAutoApp.Client\\MyBlazorAutoApp.Client.csproj",
+        "projectUniqueName": "C:\\Users\\ikeda\\gitaws\\AWSWebApp\\MyBlazorAutoApp.Client\\MyBlazorAutoApp.Client.csproj",
         "projectName": "MyBlazorAutoApp.Client",
-        "projectPath": "C:\\Users\\ikeda\\Desktop\\awsapp\\MyBlazorAutoApp\\MyBlazorAutoApp.Client\\MyBlazorAutoApp.Client.csproj",
+        "projectPath": "C:\\Users\\ikeda\\gitaws\\AWSWebApp\\MyBlazorAutoApp.Client\\MyBlazorAutoApp.Client.csproj",
         "packagesPath": "C:\\Users\\ikeda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ikeda\\Desktop\\awsapp\\MyBlazorAutoApp\\MyBlazorAutoApp.Client\\obj\\",
+        "outputPath": "C:\\Users\\ikeda\\gitaws\\AWSWebApp\\MyBlazorAutoApp.Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ikeda\\AppData\\Roaming\\NuGet\\NuGet.Config"

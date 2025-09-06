@@ -1,0 +1,1 @@
+C:\Users\ikeda\gitaws\AWSWebApp\MyBlazorAutoApp.Client\bin\Release\net9.0\publish\web.config
